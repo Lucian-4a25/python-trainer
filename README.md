@@ -34,4 +34,4 @@
 `cd python-trainer/tests`\
 \
 然后在 cmd 中输入下面的命令运行单元测试，(如果测试 project_1 则只需要修改后面部分为 test_project_1.py)，\
-`python3 -m unittest -v ./test_project_0.py`
+`python -m unittest -v ./test_project_0.py`
